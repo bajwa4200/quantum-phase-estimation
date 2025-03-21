@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+qpe/__init__.py
+qpe/core.py
+quantum_phase_estimation.egg-info/PKG-INFO
+quantum_phase_estimation.egg-info/SOURCES.txt
+quantum_phase_estimation.egg-info/dependency_links.txt
+quantum_phase_estimation.egg-info/requires.txt
+quantum_phase_estimation.egg-info/top_level.txt
+tests/test_qpe.py
